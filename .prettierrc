@@ -1,0 +1,9 @@
+# .prettierrc.yaml because I really don't like JSON when YAML is an option
+
+trailingComma: "es5"
+tabWidth: 2
+semi: false
+singleQuote: true
+printwidth: 80
+bracketSpacing: true
+endOfLine: "lf"
