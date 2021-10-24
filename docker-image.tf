@@ -1,3 +1,3 @@
-resource "docker_image" "alpine" {
-	name = "alpine:latest"
+resource "docker_image" "nginx" {
+	name = "nginx:latest"
 }
